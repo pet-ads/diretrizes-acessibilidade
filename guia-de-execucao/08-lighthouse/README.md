@@ -20,6 +20,8 @@ Siga este passo a passo para gerar o seu primeiro relatório:
 
 5. Clique no botão **Analyze page load** e aguarde o processamento.
 
+![Análise do resultado da auditoria](./img/lighthouse-tutorial-03.png)
+
 ---
 
 ## Como Interpretar os Resultados
