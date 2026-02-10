@@ -10,8 +10,8 @@ A inclusão de descrições acessíveis é fundamental por diversos motivos:
 
 * **Leitores de Tela:** Permite que usuários cegos ou com baixa visão compreendam o que está sendo exibido na tela, já que o sintetizador de voz lerá o texto alternativo.
 * **Problemas de Carregamento:** Caso a imagem não carregue devido a uma conexão lenta, o texto alternativo será exibido no lugar, mantendo o contexto da página.
-* **SEO:** Motores de busca (como o Google) utilizam o atributo `alt` para indexar e entender o conteúdo das imagens.
-* **Auditoria:** A ausência de descrições é um dos erros mais comuns que reduzem a nota de acessibilidade em ferramentas como o Lighthouse.
+* **SEO (Search Engine Optimization):** Motores de busca (como o Google) utilizam o atributo `alt` para indexar e entender o conteúdo das imagens.
+* **Auditoria:** A ausência de descrições é um dos erros mais comuns que reduzem a nota de acessibilidade em ferramentas como o [Lighthouse](../08-lighthouse/README.md).
 
 ---
 
