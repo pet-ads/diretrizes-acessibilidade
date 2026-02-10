@@ -29,12 +29,12 @@ Evite "Clique aqui" e utilize atributos ARIA para informar mudanças de estado e
 
 [![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/05-links-e-aria/)
 
-### 6. Libras e Definição de Idioma
-Implementação do widget VLibras e configuração da tag `<html lang="pt-br">` para correta sintetização de voz.
-
-[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/06-libras-e-idioma/)
-
-### 7. Formulários e Navegação
+### 6. Formulários e Navegação
 Manutenção de rótulos visíveis e suporte total à navegação por teclado (Tab).
 
-[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/07-formularios-e-navegacao/)
+[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/06-navegacao-teclado/)
+
+### 7. Libras e Definição de Idioma
+Implementação do widget VLibras e configuração da tag `<html lang="pt-br">` para correta sintetização de voz.
+
+[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/07-libras-idioma/)
