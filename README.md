@@ -38,3 +38,9 @@ Manutenção de rótulos visíveis e suporte total à navegação por teclado (T
 Implementação do widget VLibras e configuração da tag `<html lang="pt-br">` para correta sintetização de voz.
 
 [![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/07-libras-idioma/)
+
+### 8. Lighthouse
+
+Realização de auditorias automatizadas para identificar falhas de acessibilidade, validar o uso de textos alternativos e medir a conformidade do site com as diretrizes WCAG.
+
+[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/08-lighthouse/README.md/)
