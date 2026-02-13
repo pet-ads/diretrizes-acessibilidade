@@ -28,7 +28,9 @@ Para implementar corretamente, utilize o atributo `alt` dentro da tag `<img>` de
 
 Boas Práticas:
 
-1. Seja Descritivo: Explique a função ou o conteúdo da imagem, não apenas "foto de um cachorro".
-2. Imagens Decorativas: Se a imagem for apenas para enfeite (como uma linha divisória), use `alt=""` para que o leitor de tela a ignore.
-3. Evite redundância: Não comece a descrição com "Imagem de..." ou "Foto de...", pois o leitor de tela já anuncia que se trata de uma imagem.
+1. Seja Descritivo: Explique a função ou o conteúdo da imagem, não apenas "foto de um cachorro";
+2. Imagens Decorativas: Se a imagem for apenas para enfeite (como uma linha divisória), use `alt=""`
+para que o leitor de tela a ignore;
+3. Evite redundância: Não comece a descrição com "Imagem de..." ou "Foto de...", pois o leitor de
+tela já anuncia que se trata de uma imagem.
 
