@@ -27,7 +27,7 @@ Utilização de tags como `<header>`, `<nav>`, `<main>` e `<footer>` para navega
 ### 5. Links Descritivos e WAI-ARIA
 Evite "Clique aqui" e utilize atributos ARIA para informar mudanças de estado em componentes dinâmicos.
 
-[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/05-links-e-aria/)
+[![SAIBA MAIS](https://img.shields.io/badge/SAIBA%20MAIS-007bff?style=for-the-badge)](./guia-de-execucao/05-formularios/)
 
 ### 6. Formulários e Navegação
 Manutenção de rótulos visíveis e suporte total à navegação por teclado (Tab).
