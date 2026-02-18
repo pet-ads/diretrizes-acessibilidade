@@ -14,7 +14,7 @@ A navegação por teclado permite que o utilizador percorra todos os elementos i
 
 ## Como Implementar: O Foco Visual
 
-A regra mais importante é: **Nunca remova o outline do foco sem fornecer uma alternativa visual clara**.
+A regra mais importante é: **nunca remova o outline do foco sem fornecer uma alternativa visual clara**.
 
 ### Estilização do Foco em CSS
 

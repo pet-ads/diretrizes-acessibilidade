@@ -1,4 +1,4 @@
-# diretrizes-acessibilidade-pet
+# Diretrizes para acessibilidade em sites do PET/ADS
 
 Projeto destinado a padronizar a acessibilidade nos sistemas desenvolvidos pelo PET/ADS. Este guia detalha os elementos essenciais para garantir a inclusão e o cumprimento das normas WCAG.
 

@@ -9,6 +9,7 @@ Garantir um contraste adequado é vital para usuários com baixa visão ou dalto
 De acordo com a **WCAG AA**, a razão de contraste mínima para texto normal é de **4.5:1**. 
 
 No exemplo abaixo, vemos uma combinação que **falhou** na validação:
+
 ![Interface do Adobe Color mostrando um contraste de 4,09 para 1, marcado com um ícone de erro vermelho](./img/exemplo-contraste.png)
 
 * **Cor do Texto:** #1D438A (Azul escuro)
